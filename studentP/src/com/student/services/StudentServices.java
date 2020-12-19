@@ -23,7 +23,7 @@ public class StudentServices {
 		
 		
 		student = new Student();
-		System.out.println("Enter Student Name (string) : ");
+		System.out.println("Enter Stuent Nam (string) : ");
 		String name= scanner.next();
 		student.setName(name);
 		
